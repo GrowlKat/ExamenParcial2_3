@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tipos">
+        <item>Mamiferos</item>
+        <item>Anfibios</item>
+        <item>Reptiles</item>
+        <item>Peces</item>
+        <item>Aves</item>
+        <item>Insectos</item>
+        <item>Artópodos</item>
+    </string-array>
+
+    <string-array name="animales">
+        <item>Mamiferos</item>
+        <item>Anfibios</item>
+        <item>Reptiles</item>
+        <item>Peces</item>
+        <item>Aves</item>
+        <item>Insectos</item>
+        <item>Artópodos</item>
+    </string-array>
+
+</resources>
